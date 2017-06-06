@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124133\Success AddTodo test.jpg]]>
+    </line>
+    <line>
+      <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124144\Success existing To-do item.jpg]]>
+    </line>
+    <line>
+      <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124154\Success Complete one To-do item.jpg]]>
+    </line>
+    <line>
+      <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124203\Success re-activate a completed.jpg]]>
+    </line>
+    <line>
+      <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124212\Success add a second To-do.jpg]]>
+    </line>
+    <line>
+      <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124220\Success complete all.jpg]]>
+    </line>
+    <line>
+      <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124229\Success completeFilter.jpg]]>
+    </line>
+    <line>
+      <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124239\Success clear a single to do.jpg]]>
+    </line>
+    <line>
+      <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124250\Success clear all completed to do.jpg]]>
+    </line>
+  </reporter-output>
+  <suite name="TestAll" duration-ms="85800" started-at="2017-06-06T02:41:29Z" finished-at="2017-06-06T02:42:55Z">
+    <groups>
+    </groups>
+    <test name="UniSuper Assignment" duration-ms="85800" started-at="2017-06-06T02:41:29Z" finished-at="2017-06-06T02:42:55Z">
+      <class name="com.unisuper.assignment.Angular.Test.TestClass">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="BeforeMethod" is-config="true" duration-ms="7073" started-at="2017-06-06T12:41:30Z" finished-at="2017-06-06T12:41:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AddTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AddTodo" duration-ms="1665" started-at="2017-06-06T12:41:37Z" description="This test is to verify that you can add a To-do item" finished-at="2017-06-06T12:41:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124133\Success AddTodo test.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2410" started-at="2017-06-06T12:41:38Z" finished-at="2017-06-06T12:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="BeforeMethod" is-config="true" duration-ms="5524" started-at="2017-06-06T12:41:41Z" finished-at="2017-06-06T12:41:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="EditExistingTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="EditExistingTodo" duration-ms="2020" started-at="2017-06-06T12:41:46Z" description="This test is to verify that you can edit the content of an existing To-do item" finished-at="2017-06-06T12:41:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124144\Success existing To-do item.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EditExistingTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2344" started-at="2017-06-06T12:41:48Z" finished-at="2017-06-06T12:41:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="BeforeMethod" is-config="true" duration-ms="4892" started-at="2017-06-06T12:41:51Z" finished-at="2017-06-06T12:41:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="CompleteTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="CompleteTodo" duration-ms="1828" started-at="2017-06-06T12:41:55Z" description="This test is to verify that you can complete a To-do by clicking inside the circle UI to the left of the To-do" finished-at="2017-06-06T12:41:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124154\Success Complete one To-do item.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CompleteTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2362" started-at="2017-06-06T12:41:57Z" finished-at="2017-06-06T12:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="BeforeMethod" is-config="true" duration-ms="4751" started-at="2017-06-06T12:42:00Z" finished-at="2017-06-06T12:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="ReactivateCompleteTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="ReactivateCompleteTodo" duration-ms="1728" started-at="2017-06-06T12:42:04Z" description="This test is to verify that you can re-activate a completed To-do by clicking inside the circle UI" finished-at="2017-06-06T12:42:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124203\Success re-activate a completed.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ReactivateCompleteTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2346" started-at="2017-06-06T12:42:06Z" finished-at="2017-06-06T12:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="BeforeMethod" is-config="true" duration-ms="4775" started-at="2017-06-06T12:42:08Z" finished-at="2017-06-06T12:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="Add2Todo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="Add2Todo" duration-ms="1593" started-at="2017-06-06T12:42:13Z" description="This test is to verify that you can  add a second To-do" finished-at="2017-06-06T12:42:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124212\Success add a second To-do.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Add2Todo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2393" started-at="2017-06-06T12:42:15Z" finished-at="2017-06-06T12:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="BeforeMethod" is-config="true" duration-ms="4887" started-at="2017-06-06T12:42:17Z" finished-at="2017-06-06T12:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="CompleteALLTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="CompleteALLTodo" duration-ms="1627" started-at="2017-06-06T12:42:22Z" description="This test is to verify that you can complete all active To-dos by clicking the down arrow at the top-left of the UI" finished-at="2017-06-06T12:42:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124220\Success complete all.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CompleteALLTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2363" started-at="2017-06-06T12:42:24Z" finished-at="2017-06-06T12:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="BeforeMethod" is-config="true" duration-ms="4870" started-at="2017-06-06T12:42:26Z" finished-at="2017-06-06T12:42:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="CompleteTodoFilter()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="CompleteTodoFilter" duration-ms="1926" started-at="2017-06-06T12:42:31Z" description="This test is to verify that you can filter the visible To-dos by Completed state" finished-at="2017-06-06T12:42:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124229\Success completeFilter.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CompleteTodoFilter -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2364" started-at="2017-06-06T12:42:33Z" finished-at="2017-06-06T12:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="BeforeMethod" is-config="true" duration-ms="6209" started-at="2017-06-06T12:42:35Z" finished-at="2017-06-06T12:42:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="DeleteTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="DeleteTodo" duration-ms="2384" started-at="2017-06-06T12:42:41Z" description="This test is to verify that you can clear a single To-do item from the list completely by clicking the Close icon." finished-at="2017-06-06T12:42:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124239\Success clear a single to do.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DeleteTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2375" started-at="2017-06-06T12:42:44Z" finished-at="2017-06-06T12:42:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="BeforeMethod" is-config="true" duration-ms="4532" started-at="2017-06-06T12:42:46Z" finished-at="2017-06-06T12:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="DeleteAllTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="DeleteAllTodo" duration-ms="2134" started-at="2017-06-06T12:42:51Z" description="This test is to verify that you can clear all completed To-do items from the list completely" finished-at="2017-06-06T12:42:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[the screenshot printed at:- C:\Users\sreeramvenapusa\Angular\Screenshots\20170606124250\Success clear all completed to do.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DeleteAllTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2377" started-at="2017-06-06T12:42:53Z" finished-at="2017-06-06T12:42:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- com.unisuper.assignment.Angular.Test.TestClass -->
+    </test> <!-- UniSuper Assignment -->
+  </suite> <!-- TestAll -->
+</testng-results>

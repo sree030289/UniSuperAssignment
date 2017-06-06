@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [TestAll]" parallel="methods">
+  <test name="UniSuper Assignment">
+    <classes>
+      <class name="com.unisuper.assignment.Angular.Test.TestClass">
+        <methods>
+          <include name="AddTodo"/>
+          <include name="EditExistingTodo"/>
+          <include name="CompleteTodo"/>
+          <include name="ReactivateCompleteTodo"/>
+          <include name="Add2Todo"/>
+          <include name="CompleteALLTodo"/>
+          <include name="CompleteTodoFilter"/>
+          <include name="DeleteTodo"/>
+          <include name="DeleteAllTodo"/>
+        </methods>
+      </class> <!-- com.unisuper.assignment.Angular.Test.TestClass -->
+    </classes>
+  </test> <!-- UniSuper Assignment -->
+</suite> <!-- Failed suite [TestAll] -->
